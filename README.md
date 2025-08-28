@@ -24,17 +24,15 @@ Here is a gallery showcasing the application's key features and modules.
 | :---: | :---: | :---: |
 | ![Login Screen](login-screen.png) | ![Main Dashboard](main-dashboard.png) | ![Patient Registration](patient-registration.png) |
 
-| Patient Information | Employee Information | Department Information |
+| Patient Information | Employee Information | Ambulance Service |
 | :---: | :---: | :---: |
-| ![Patient Information](patient-information.png) | ![Employee Information](employee-information.png) | ![Department Information](department-info.png) |
+| ![Patient Information](patient-information.png) | ![Employee Information](employee-information.png) | ![Ambulance Service](ambulance-service.png) |
 
 | Room Management | Search & Book Rooms | Patient Discharge |
 | :---: | :---: | :---: |
 | ![Room Management](room-management.png) | ![Search and Book Rooms](search-rooms.png) | ![Patient Discharge](patient-discharge.png) |
 
-| Ambulance Service |
-| :---: |
-| ![Ambulance Service](ambulance-service.png) |
+
 
 ---
 
@@ -81,4 +79,5 @@ You will need to have the following installed on your machine:
 ## 📄 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
 
