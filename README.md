@@ -60,7 +60,7 @@ You will need to have the following installed on your machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/ShrikarBende/Hospital-Management-System-JavaSwing.git]
+    git clone https://github.com/ShrikarBende/Hospital-Management-System-JavaSwing.git
     ```
 2.  **Set up the database:**
     - Set up a local MySQL database.
@@ -79,6 +79,7 @@ You will need to have the following installed on your machine:
 ## 📄 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
 
 
 
