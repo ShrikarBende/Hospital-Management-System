@@ -38,7 +38,7 @@ Here is a gallery showcasing the application's key features and modules.
 
 ## 🛠️ Technologies Used
 
-- **Programming Language:** Java
+- **Programming Language:** Java , OOP
 - **UI Framework:** Java Swing
 - **Database:** MySQL
 - **JDBC Driver:** MySQL Connector/J
@@ -79,6 +79,7 @@ You will need to have the following installed on your machine:
 ## 📄 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
 
 
 
